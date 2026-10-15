@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: agent-starter-python
+Version: 1.0.0
+Summary: Simple voice AI assistant built with LiveKit Agents for Python
+Requires-Python: >=3.13
+Requires-Dist: boto3>=1.40.66
+Requires-Dist: livekit-agents[assemblyai,elevenlabs,silero,turn-detector]~=1.6.6
+Requires-Dist: livekit-plugins-cartesia==1.6.6
+Requires-Dist: livekit-plugins-noise-cancellation~=0.2
+Requires-Dist: python-dotenv

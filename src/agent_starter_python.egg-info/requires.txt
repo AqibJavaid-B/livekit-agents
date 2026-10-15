@@ -1,0 +1,5 @@
+boto3>=1.40.66
+livekit-agents[assemblyai,elevenlabs,silero,turn-detector]~=1.6.6
+livekit-plugins-cartesia==1.6.6
+livekit-plugins-noise-cancellation~=0.2
+python-dotenv
